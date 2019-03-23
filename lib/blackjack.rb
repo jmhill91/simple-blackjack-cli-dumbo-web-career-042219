@@ -25,7 +25,7 @@ def end_game(num)
 end
 
 def initial_round
-  # code #initial_round here
+  sum=
 end
 
 def hit?
