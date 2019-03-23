@@ -35,6 +35,9 @@ def hit?(newTotal)
   card=get_user_input
   if card == h
     newTotal += deal_card
+    elsif card == s
+    return newTotal
+  end
     
 end
 
