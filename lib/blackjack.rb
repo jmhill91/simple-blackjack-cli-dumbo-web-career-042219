@@ -30,10 +30,11 @@ def initial_round
   sum
 end
 
-def hit?
+def hit?(newTotal)
   prompt_user
   card=get_user_input
   if card == h
+    newTotal += deal_card
     
 end
 
