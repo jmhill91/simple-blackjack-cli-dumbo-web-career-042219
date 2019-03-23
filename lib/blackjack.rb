@@ -50,6 +50,8 @@ end
 #####################################################
 
 def runner
-  # code runner here
+  Welcome
+  initial_round
+  hit?
 end
     
