@@ -50,7 +50,8 @@ end
 #####################################################
 
 def runner
-  Welcome
-  initial_round
+  welcome
+  hand=initial_round
+  
 end
     
