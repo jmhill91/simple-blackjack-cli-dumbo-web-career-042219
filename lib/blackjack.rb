@@ -33,7 +33,8 @@ end
 def hit?
   prompt_user
   card=get_user_input
-  if
+  if card == h
+    
 end
 
 def invalid_command
