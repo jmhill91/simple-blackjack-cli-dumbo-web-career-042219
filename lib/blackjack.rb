@@ -32,7 +32,7 @@ end
 
 def hit?
   prompt_user
-  
+  card=
 end
 
 def invalid_command
